@@ -14,5 +14,5 @@ This repository consists of five different machine perception projects written i
     sudo pip3 install ipympl
 ```
 
--  When opening a project you will notice, that these Jupyter notebooks are structured in blocks of code, that can be run by pressing the “play” button on the top left. For a project to work, all the blocks of code must be executed in descending order. 
+-  When opening a project you will notice, that these Jupyter notebooks are structured in blocks of code, that can be run by pressing the “play” button on the top left. **For a project to work, all the blocks of code must be executed in descending order.** 
 
