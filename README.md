@@ -5,7 +5,7 @@ This repository consists of five different machine perception projects written i
  
 ### Prerequisites:
 - First you must have Python installed on your computer
-- In Visual studio code download the extension for Jupyter notebooks called Jupyter extension.
+- In Visual studio code download the extension for Jupyter notebooks called Jupyter.
 - Then use Python package installer pip to install the following (either use pip or pip3 depending on your version of Python):
 ```
     sudo pip3 install numpy
